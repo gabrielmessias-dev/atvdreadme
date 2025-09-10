@@ -1,7 +1,7 @@
-## **Readme - NetGuard Pro**
+## NetGuard Pro**
 
 
-> **NetGuard Pro** — Sua solução confiável para monitorar, proteger e gerenciar redes de forma eficiente.
+> — Sua solução confiável para monitorar, proteger e gerenciar redes de forma eficiente.
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://example.com)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](#license)

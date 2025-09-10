@@ -1,4 +1,4 @@
-## NetGuard Pro**
+## NetGuard Pro
 
 
 > — Sua solução confiável para monitorar, proteger e gerenciar redes de forma eficiente.

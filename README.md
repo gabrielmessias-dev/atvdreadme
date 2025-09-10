@@ -17,7 +17,7 @@ O **NetGuard Pro** foi criado para diferentes perfis de usuários:
 * **Desenvolvedores**: entenda a estrutura técnica, arquitetura e fluxos de integração.
 * **Colaboradores**: encontre diretrizes claras para contribuir de forma eficaz.
 
-**Caso de uso real:** imagine um hospital que precisa monitorar seu tráfego de rede para proteger informações sensíveis dos pacientes. O NetGuard Pro permite detectar anomalias em tempo real, aplicar políticas de segurança e gerar relatórios de conformidade para auditorias internas e externas.
+**Exemplo de uso real:** imagine um hospital que precisa monitorar seu tráfego de rede para proteger informações sensíveis dos pacientes. O NetGuard Pro permite detectar anomalias em tempo real, aplicar políticas de segurança e gerar relatórios de conformidade para auditorias internas e externas.
 
 ---
 
